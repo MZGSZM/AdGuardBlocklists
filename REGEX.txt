@@ -1,3 +1,6 @@
+# Recommend this in addition
+# https://github.com/Perflyst/PiHoleBlocklist/edit/master/SmartTV.txt
+
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
@@ -43,3 +46,9 @@
 ^https?://([A-Za-z0-9.-]*\.)?info\.yahoo\.com/
 ^https?://([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/
 ^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
+(^|\.)buffpanel\.com$
+(^|\.)bugsnag\.com$
+(^|\.)redshell\.io$
+(^|\.)treasuredata\.com$
+(^|\.)unity(|3d)\.com$
+(^|\.)unityads(|\.co)\.com$
