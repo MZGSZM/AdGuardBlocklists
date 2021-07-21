@@ -1,6 +1,3 @@
-# Recommend this in addition
-# https://github.com/Perflyst/PiHoleBlocklist/edit/master/SmartTV.txt
-
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
@@ -15,7 +12,9 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
-/^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com/
+/(ads|logs|cloudservices).roku.com$/
+/^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.co/
+/^https?://([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/
 /^https?://([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/
 /^https?://([A-Za-z0-9.-]*\.)?secure\.footprint\.net/
 /^https?://([A-Za-z0-9.-]*\.)?match\.com/
@@ -46,6 +45,13 @@
 /^https?://([A-Za-z0-9.-]*\.)?info\.yahoo\.com/
 /^https?://([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/
 /^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
+/((^)|(.))metric./
+/((^)|(.))telemetry./
+/((^)|(.))analytic./
+/((^)|(.))adchoice./
+/((^)|(.))adsdk./
+/((^)|(.))adserv./
+/((^)|(.))tracking./
 /(^|\.)buffpanel\.com$/
 /(^|\.)bugsnag\.com$/
 /(^|\.)redshell\.io$/
