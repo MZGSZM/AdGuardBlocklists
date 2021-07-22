@@ -63,3 +63,7 @@
 /*.events.*/
 /*.log.*/
 /*.logs.*/
+/*.smaato.*/
+/*.mopub.*/
+/*app-measurement*/
+/*.nexage.*/
