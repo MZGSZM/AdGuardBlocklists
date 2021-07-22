@@ -61,14 +61,13 @@
 /((^)|(.))trackscale./
 /((^)|(.))trkmenowapptwtree./
 /((^)|(.))events./
-/((^)|(.))log./
 /((^)|(.))logs./
 /((^)|(.))smaato./
 /((^)|(.))mopub./
 /((^)|(.))app-measurement./
 /((^)|(.))nexage./
-/((^)|(.))crashlytics.com/
-/((^)|(.))scorecardresearch.com/
+/((^)|(.))crashlytics./
+/((^)|(.))scorecardresearch./
 /((^)|(.))14-tracking.com/
 /((^)|(.))1minto-start.com/
 /((^)|(.))24-7clinic.com/
