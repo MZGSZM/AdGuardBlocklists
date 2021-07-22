@@ -58,5 +58,8 @@
 /(^|\.)treasuredata\.com$/
 /(^|\.)unity(|3d)\.com$/
 /(^|\.)unityads(|\.co)\.com$/
-/*trackscale*/
-/*trkmenowapptwtree*/
+/*.trackscale.*/
+/*.trkmenowapptwtree.*/
+/*.events.*/
+/*.log.*/
+/*.logs.*/
