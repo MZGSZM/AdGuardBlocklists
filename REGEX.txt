@@ -67,6 +67,8 @@
 /((^)|(.))mopub./
 /((^)|(.))app-measurement/
 /((^)|(.))nexage./
+/((^)|(.))crashlytics.com./
+/((^)|(.))scorecardresearch.com./
 /((^)|(.))14-tracking.com/
 /((^)|(.))1minto-start.com/
 /((^)|(.))24-7clinic.com/
