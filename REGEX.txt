@@ -73,3 +73,4 @@
 /((^)|(.))trkmenow*/
 /((^)|(.))insightexpressai./
 /((^)|(.))prebid.adnxs./
+/((^)|(.))svr-algorix./
