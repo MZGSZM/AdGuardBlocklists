@@ -70,3 +70,6 @@
 /((^)|(.))scorecardresearch((^)|(.))/
 /((^)|(.))trackmenowsitn((^)|(.))/
 /((^)|(.))trackmenow*/
+/((^)|(.))trkmenow*/
+/((^)|(.))insightexpressai./
+/((^)|(.))prebid.adnxs./
