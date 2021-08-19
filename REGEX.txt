@@ -61,7 +61,7 @@
 /((^)|(.))trackscale./
 /((^)|(.))trkmenowapptwtree((^)|(.))/
 /((^)|(.))events./
-/(.?)logs(.)/
+/(.?)log(s)\./
 /((^)|(.))smaato./
 /((^)|(.))mopub./
 /((^)|(.))app-measurement((^)|(.))/
@@ -77,3 +77,4 @@
 /((^)|(.))imrworldwide((^)|(.))/
 /((^)|(.))doubleclick((^)|(.))/
 /((^)|(.))scorecardresearch((^)|(.))/
+/((^)|(.))trackscale./
