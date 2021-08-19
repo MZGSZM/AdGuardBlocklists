@@ -71,7 +71,9 @@
 /((^)|(.))trackmenowsitn((^)|(.))/
 /((^)|(.))trackmenow*/
 /((^)|(.))trkmenow*/
-/((^)|(.))insightexpressai./
-/((^)|(.))prebid.adnxs./
+/((^)|(.))insightexpressai((^)|(.))/
+/((^)|(.))adnxs./
 /((^)|(.))svr-algorix./
-/((^)|(.))imrworldwide./
+/((^)|(.))imrworldwide((^)|(.))/
+/((^)|(.))doubleclick((^)|(.))/
+/((^)|(.))scorecardresearch((^)|(.))/
