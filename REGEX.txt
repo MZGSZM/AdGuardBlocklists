@@ -61,7 +61,7 @@
 /((^)|(.))trackscale./
 /((^)|(.))trkmenowapptwtree((^)|(.))/
 /((^)|(.))events./
-/((^)|(.))logs./
+/.logs./
 /((^)|(.))smaato./
 /((^)|(.))mopub./
 /((^)|(.))app-measurement((^)|(.))/
@@ -74,3 +74,4 @@
 /((^)|(.))insightexpressai./
 /((^)|(.))prebid.adnxs./
 /((^)|(.))svr-algorix./
+/((^)|(.))imrworldwide./
